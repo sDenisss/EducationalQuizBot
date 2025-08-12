@@ -86,6 +86,8 @@ Answer: POST
 Choices: GET, PUT, DELETE, POST
 ```
 
+and /loadQuizToDb in tg chat
+
 📚 Adding Content to the Education
 To add new education:
 
@@ -95,6 +97,9 @@ Question: What is the HTTP method typically used for creating a new resource in 
 Answer: POST
 Choices: GET, PUT, DELETE, POST
 ```
+and /loadEducationToDb in tg chat
+
+--- 
 
 📄 License
 MIT License — free to use and modify.
