@@ -93,9 +93,9 @@ To add new education:
 
 Example text in fileForSaveQuizOrEdu.txt:
 ```bash 
-Question: What is the HTTP method typically used for creating a new resource in ASP.NET Core?
-Answer: POST
-Choices: GET, PUT, DELETE, POST
+Edu: Ключевое слово static в C# указывает, что член класса принадлежит самому классу, а не его экземпляру.
+Статические члены можно вызывать без создания объекта:
+Console.WriteLine(Math.PI);
 ```
 and /loadEducationToDb in tg chat
 
